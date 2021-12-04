@@ -1,228 +1,415 @@
 状态: 信息:Starting Network Manager Script Dispatcher Service... 
-状态:OK 信息:Started Hostname Service. 
-状态:OK 信息:Started Accounts Service. 
-状态:OK 信息:Started Authorization Manager. 
+状态:OK 信息:Started Hostname Service.
+ 
+状态:OK 信息:Started Accounts Service.
+ 
+状态:OK 信息:Started Authorization Manager.
+ 
 状态: 信息:Starting Hold until boot process finishes up... 
 状态: 信息:Starting Light Display Manager... 
-状态:OK 信息:Started Permit User Sessions. 
+状态:OK 信息:Started Permit User Sessions.
+ 
 状态: 信息:Starting Hostname Service... 
-状态:OK 信息:Started Deepin Device Manager Daemon. 
+状态:OK 信息:Started Deepin Device Manager Daemon.
+ 
 状态: 信息:Starting Permit User Sessions... 
-状态:OK 信息:Reached target Network. 
-状态:OK 信息:Reached target Bluetooth. 
+状态:OK 信息:Reached target Network.
+ 
+状态:OK 信息:Reached target Bluetooth.
+ 
 状态: 信息:Starting Network Manager Wait Online... 
 状态: 信息:Starting Authorization Manager... 
-状态:OK 信息:Started Network Manager. 
-状态:OK 信息:Started WPA supplicant. 
-状态:OK 信息:Started Bluetooth service. 
-状态:OK 信息:Started Login Service. 
-状态:OK 信息:Started Laptop Mode Tools - Battery Polling Service. 
-状态:OK 信息:Started Self Monitoring and Reporting Technology (SMART) Daemon. 
+状态:OK 信息:Started Network Manager.
+ 
+状态:OK 信息:Started WPA supplicant.
+ 
+状态:OK 信息:Started Bluetooth service.
+ 
+状态:OK 信息:Started Login Service.
+ 
+状态:OK 信息:Started Laptop Mode Tools - Battery Polling Service.
+ 
+状态:OK 信息:Started Self Monitoring and Reporting Technology (SMART) Daemon.
+ 
 状态: 信息:[  OK  ] Started System Logging Service. 
 状态: 信息:Starting Login Service... 
-状态:OK 信息:Started Deepin shutdown sound. 
-状态:OK 信息:Reached target Sound Card. 
-状态:OK 信息:Started Save/Restore Sound Card State. 
-状态:OK 信息:Started Restore /etc/resolv.conf if the system crashed before the ppp link was shut down. 
-状态:OK 信息:Reached target Timers. 
-状态:OK 信息:Started Daily man-db regeneration. 
-状态:OK 信息:Started Daily apt upgrade and clean activities. 
-状态:OK 信息:Started Daily apt download activities. 
-状态:OK 信息:Started Daily rotation of log files. 
-状态:OK 信息:Reached target System Time Synchronized. 
+状态:OK 信息:Started Deepin shutdown sound.
+ 
+状态:OK 信息:Reached target Sound Card.
+ 
+状态:OK 信息:Started Save/Restore Sound Card State.
+ 
+状态:OK 信息:Started Restore /etc/resolv.conf if the system crashed before the ppp link was shut down.
+ 
+状态:OK 信息:Reached target Timers.
+ 
+状态:OK 信息:Started Daily man-db regeneration.
+ 
+状态:OK 信息:Started Daily apt upgrade and clean activities.
+ 
+状态:OK 信息:Started Daily apt download activities.
+ 
+状态:OK 信息:Started Daily rotation of log files.
+ 
+状态:OK 信息:Reached target System Time Synchronized.
+ 
 状态: 信息:Starting Bluetooth service... 
 状态: 信息:Starting Network Manager... 
 状态: 信息:Starting WPA supplicant... 
-状态:OK 信息:Started D-Bus System Message Bus. 
+状态:OK 信息:Started D-Bus System Message Bus.
+ 
 状态: 信息:Starting Laptop Mode Tools - Battery Polling Service... 
 状态: 信息:Starting Disk Manager... 
-状态:OK 信息:Started Regular background program processing daemon. 
-状态:OK 信息:Reached target Login Prompts. 
+状态:OK 信息:Started Regular background program processing daemon.
+ 
+状态:OK 信息:Reached target Login Prompts.
+ 
 状态: 信息:Starting Self Monitoring and Reporting Technology (SMART) Daemon... 
 状态: 信息:Starting Save/Restore Sound Card State... 
 状态: 信息:Starting System Logging Service... 
-状态:OK 信息:Started Manage Sound Card State (restore and store). 
+状态:OK 信息:Started Manage Sound Card State (restore and store).
+ 
 状态: 信息:Starting Restore /etc/resolv.conf if the system crashed before the ppp link was shut down... 
 状态: 信息:Starting Modem Manager... 
-状态:OK 信息:Started CUPS Scheduler. 
+状态:OK 信息:Started CUPS Scheduler.
+ 
 状态: 信息:Starting Accounts Service... 
 状态: 信息:Starting Laptop Mode Tools... 
-状态:OK 信息:Reached target Basic System. 
-状态:OK 信息:Reached target Sockets. 
-状态:OK 信息:Listening on CUPS Scheduler. 
-状态:OK 信息:Listening on D-Bus System Message Bus Socket. 
-状态:OK 信息:Started Runs Laptop Mode Tools - Polling Service, every 150 seconds. 
-状态:OK 信息:Started Daily Cleanup of Temporary Directories. 
-状态:OK 信息:Reached target Paths. 
-状态:OK 信息:Started CUPS Scheduler. 
-状态:OK 信息:Reached target System Initialization. 
-状态:OK 信息:Started Network Time Synchronization. 
-状态:OK 信息:Started Raise network interfaces. 
-状态:OK 信息:Started Update UTMP about System Boot/Shutdown. 
+状态:OK 信息:Reached target Basic System.
+ 
+状态:OK 信息:Reached target Sockets.
+ 
+状态:OK 信息:Listening on CUPS Scheduler.
+ 
+状态:OK 信息:Listening on D-Bus System Message Bus Socket.
+ 
+状态:OK 信息:Started Runs Laptop Mode Tools - Polling Service, every 150 seconds.
+ 
+状态:OK 信息:Started Daily Cleanup of Temporary Directories.
+ 
+状态:OK 信息:Reached target Paths.
+ 
+状态:OK 信息:Started CUPS Scheduler.
+ 
+状态:OK 信息:Reached target System Initialization.
+ 
+状态:OK 信息:Started Network Time Synchronization.
+ 
+状态:OK 信息:Started Raise network interfaces.
+ 
+状态:OK 信息:Started Update UTMP about System Boot/Shutdown.
+ 
 状态: 信息:Starting Update UTMP about System Boot/Shutdown... 
 状态: 信息:Starting Network Time Synchronization... 
-状态:OK 信息:Started Create Volatile Files and Directories. 
-状态:OK 信息:Started Tell Plymouth To Write Out Runtime Data. 
+状态:OK 信息:Started Create Volatile Files and Directories.
+ 
+状态:OK 信息:Started Tell Plymouth To Write Out Runtime Data.
+ 
 状态: 信息:Starting Create Volatile Files and Directories... 
 状态: 信息:Starting Raise network interfaces... 
 状态: 信息:Starting Tell Plymouth To Write Out Runtime Data... 
-状态:OK 信息:Reached target Local File Systems. 
-状态:OK 信息:Mounted /boot/efi. 
-状态:OK 信息:Mounted /home. 
+状态:OK 信息:Reached target Local File Systems.
+ 
+状态:OK 信息:Mounted /boot/efi.
+ 
+状态:OK 信息:Mounted /home.
+ 
 状态: 信息:Mounting /boot/efi... 
-状态: 信息:Checking in progress on 0 disks (100.0% complete)[  OK  ] Started File System Check on /dev/disk/by-uuid/AC20-C88C. 
+状态: 信息:Checking in progress on 0 disks (100.0% complete)
+[  OK  ] Started File System Check on /dev/disk/by-uuid/AC20-C88C. 
 状态: 信息:Mounting /home... 
-状态: 信息:Checking in progress on 1 disk (0.0% complete)[  OK  ] Started File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc. 
+状态: 信息:Checking in progress on 1 disk (0.0% complete)
+[  OK  ] Started File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc. 
 状态: 信息:See 'systemctl status systemd-rfkill.service' for details. 
-状态:Failed 信息:start Load/Save RF Kill Switch Status. 
+状态:Failed 信息:start Load/Save RF Kill Switch Status.
+ 
 状态: 信息:Starting Load/Save RF Kill Switch Status... 
 状态: 信息:See 'systemctl status systemd-rfkill.service' for details. 
-状态:Failed 信息:start Load/Save RF Kill Switch Status. 
-状态:OK 信息:Started File System Check Daemon to report status. 
+状态:Failed 信息:start Load/Save RF Kill Switch Status.
+ 
+状态:OK 信息:Started File System Check Daemon to report status.
+ 
 状态: 信息:Starting File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc... 
 状态: 信息:Starting File System Check on /dev/disk/by-uuid/AC20-C88C... 
-状态:OK 信息:Found device UNIC2_S100-240 EFI\x20system\x20partition. 
-状态:OK 信息:Found device UNIC2_S100-240 Linux\x20data\x20partition. 
-状态: 信息:M[K         Starting Load/Save RF Kill Switch Status... 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 11s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 11s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 10s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 10s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 9s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 9s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 8s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 8s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 7s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 7s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 6s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 6s / in 30s) 
-状态: 信息:M[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 5s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 5s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 4s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 4s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 3s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 3s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 2s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 2s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 1s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 1s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (59s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (59s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (58s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (58s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (57s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (57s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (56s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (56s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (55s / in 30s) 
-状态: 信息:M[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (55s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (54s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (54s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (53s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (53s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (52s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (52s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (51s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (50s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (50s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (49s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (49s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (48s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (48s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (47s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (47s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (46s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (46s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (45s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (45s / in 30s) 
-状态: 信息:M[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (44s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (44s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (43s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (43s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (42s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (41s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (41s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (40s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (40s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (39s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (39s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (38s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (38s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (37s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (37s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (36s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (36s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (35s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (35s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (34s / in 30s) 
-状态: 信息:M[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (34s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (33s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (33s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (31s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (31s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (30s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (29s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (29s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (28s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (28s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (27s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (27s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (26s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (25s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (25s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (24s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (24s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (23s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
-状态: 信息:M[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (21s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (21s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (19s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (16s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (15s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (15s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (14s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (14s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (13s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (13s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (12s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (11s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (11s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (10s / in 30s) 
-状态: 信息:M[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (10s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (9s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (7s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (7s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (6s / in 30s) 
+状态:OK 信息:Found device UNIC2_S100-240 EFI\x20system\x20partition.
+ 
+状态:OK 信息:Found device UNIC2_S100-240 Linux\x20data\x20partition.
+ 
+状态: 信息:M
+[K         Starting Load/Save RF Kill Switch Status... 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 11s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 11s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 10s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 10s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 9s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 9s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 8s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 8s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 7s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 7s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 6s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 6s / in 30s) 
+状态: 信息:M
+[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 5s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 5s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 4s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 4s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 3s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 3s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 2s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 2s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 1s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 1s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (59s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (59s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (58s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (58s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (57s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (57s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (56s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (56s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (55s / in 30s) 
+状态: 信息:M
+[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (55s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (54s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (54s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (53s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (53s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (52s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (52s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (51s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (50s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (50s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (49s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (49s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (48s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (48s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (47s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (47s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (46s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (46s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (45s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (45s / in 30s) 
+状态: 信息:M
+[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (44s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (44s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (43s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (43s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (42s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (41s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (41s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (40s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (40s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (39s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (39s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (38s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (38s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (37s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (37s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (36s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (36s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (35s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (35s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (34s / in 30s) 
+状态: 信息:M
+[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (34s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (33s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (33s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (31s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (31s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (30s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (29s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (29s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (28s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (28s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (27s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (27s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (26s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (25s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (25s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (24s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (24s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (23s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
+状态: 信息:M
+[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (21s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (21s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (19s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (16s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (15s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (15s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (14s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (14s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (13s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (13s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (12s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (11s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (11s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (10s / in 30s) 
+状态: 信息:M
+[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (10s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (9s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (7s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (7s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (6s / in 30s) 
 状态: 信息:[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (6s / in 30s) 
 状态: 信息:/init: line 83: wait-for-root: not found 
 状态: 信息:------------ Fri Dec 03 21:56:39 CST 2021 ------------ 
-状态:OK 信息:Reached target Sound Card. 
+状态:OK 信息:Reached target Sound Card.
+ 
 状态: 信息:Starting Create Volatile Files and Directories... 
 状态: 信息:Starting Tell Plymouth To Write Out Runtime Data... 
-状态:OK 信息:Reached target Emergency Mode. 
-状态:OK 信息:Started Emergency Shell. 
-状态:OK 信息:Reached target Sockets. 
-状态:OK 信息:Reached target Paths. 
-状态:OK 信息:Reached target Login Prompts. 
-状态:OK 信息:Closed Syslog Socket. 
-状态:OK 信息:Reached target Timers. 
-状态:OK 信息:Reached target Bluetooth. 
-状态:OK 信息:Stopped Forward Password Requests to Wall Directory Watch. 
+状态:OK 信息:Reached target Emergency Mode.
+ 
+状态:OK 信息:Started Emergency Shell.
+ 
+状态:OK 信息:Reached target Sockets.
+ 
+状态:OK 信息:Reached target Paths.
+ 
+状态:OK 信息:Reached target Login Prompts.
+ 
+状态:OK 信息:Closed Syslog Socket.
+ 
+状态:OK 信息:Reached target Timers.
+ 
+状态:OK 信息:Reached target Bluetooth.
+ 
+状态:OK 信息:Stopped Forward Password Requests to Wall Directory Watch.
+ 
 状态: 信息:Starting Raise network interfaces... 
 状态: 信息:[DEPEND] Dependency failed for /boot/efi. 
 状态: 信息:[DEPEND] Dependency failed for File System Check on /dev/disk/by-uuid/AC20-C88C. 
@@ -231,398 +418,757 @@
 状态: 信息:[DEPEND] Dependency failed for Local File Systems. 
 状态: 信息:[DEPEND] Dependency failed for /home. 
 状态: 信息:[K[DEPEND] Dependency failed for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc. 
-状态: 信息:M[K[ TIME ] Timed out waiting for device /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc. 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 29s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 29s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 28s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 28s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 27s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 27s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 26s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 26s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 25s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 25s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 24s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 24s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 23s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 23s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 22s / in 30s) 
-状态: 信息:M[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 22s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 21s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 21s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 20s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 20s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 19s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 19s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 18s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 18s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 17s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 17s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 16s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 16s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 15s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 15s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 14s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 14s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 13s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 13s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 12s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 12s / in 30s) 
-状态: 信息:M[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 11s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 11s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 10s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 10s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 9s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 9s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 8s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 8s / in 30s) 
+状态: 信息:M
+[K[ TIME ] Timed out waiting for device /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc. 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 29s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 29s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 28s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 28s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 27s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 27s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 26s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 26s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 25s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 25s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 24s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 24s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 23s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 23s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 22s / in 30s) 
+状态: 信息:M
+[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 22s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 21s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 21s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 20s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 20s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 19s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 19s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 18s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 18s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 17s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 17s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 16s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 16s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 15s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 15s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 14s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 14s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 13s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 13s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 12s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 12s / in 30s) 
+状态: 信息:M
+[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 11s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 11s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 10s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 10s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 9s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 9s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 8s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 8s / in 30s) 
 状态: 信息:[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 7s / in 30s) 
-状态:OK 信息:Started Load/Save RF Kill Switch Status. 
-状态: 信息:M[K         Starting Load/Save RF Kill Switch Status... 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 2s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 1s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 1s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (59s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (59s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (58s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (58s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (57s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (57s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (56s / in 30s) 
-状态: 信息:M[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (56s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (55s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (55s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (54s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (54s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (53s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (53s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (52s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (52s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (50s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (50s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (49s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (49s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (48s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (48s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (47s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (47s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (46s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (46s / in 30s) 
-状态: 信息:M[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (45s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (45s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (44s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (44s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (43s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (43s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (40s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (39s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (39s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (38s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (38s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (37s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (36s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (36s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (35s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (35s / in 30s) 
-状态: 信息:M[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (34s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (34s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (33s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (31s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (31s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (30s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (29s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (29s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (28s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (28s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (27s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (27s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (26s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (25s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (25s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (24s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (24s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (23s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
-状态: 信息:M[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (21s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (21s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (19s / in 30s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (16s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (15s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (15s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (14s / in 30s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (14s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (13s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (13s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (12s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (11s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (11s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (10s / in 30s) 
-状态: 信息:M[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (10s / in 30s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (9s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (7s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (7s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (6s / in 30s) 
+状态:OK 信息:Started Load/Save RF Kill Switch Status.
+ 
+状态: 信息:M
+[K         Starting Load/Save RF Kill Switch Status... 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 2s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 1s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in 1s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (59s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (59s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (58s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (58s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (57s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (57s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (56s / in 30s) 
+状态: 信息:M
+[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (56s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (55s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (55s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (54s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (54s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (53s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (53s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (52s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (52s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (50s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (50s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (49s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (49s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (48s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (48s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (47s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (47s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (46s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (46s / in 30s) 
+状态: 信息:M
+[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (45s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (45s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (44s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (44s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (43s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (43s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (40s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (39s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (39s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (38s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (38s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (37s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (36s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (36s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (35s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (35s / in 30s) 
+状态: 信息:M
+[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (34s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (34s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (33s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (31s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (31s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (30s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (29s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (29s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (28s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (28s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (27s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (27s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (26s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (25s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (25s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (24s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (24s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (23s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
+状态: 信息:M
+[K[*     ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (21s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (21s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (19s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (16s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (15s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (15s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (14s / in 30s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (14s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (13s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (13s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (12s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (11s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (11s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (10s / in 30s) 
+状态: 信息:M
+[K[     *] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (10s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (9s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (7s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (7s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (6s / in 30s) 
 状态: 信息:[*     ] (1 of 2) A start job is running for /dev/disk/by-uuid/AC20-C88C (6s / in 30s) 
 状态: 信息:/init: line 83: wait-for-root: not found 
 状态: 信息:------------ Fri Dec 03 17:05:24 CST 2021 ------------ 
-状态:OK 信息:Started Accounts Service. 
-状态:OK 信息:Started Authorization Manager. 
-状态:OK 信息:Started Hostname Service. 
+状态:OK 信息:Started Accounts Service.
+ 
+状态:OK 信息:Started Authorization Manager.
+ 
+状态:OK 信息:Started Hostname Service.
+ 
 状态: 信息:Starting Hold until boot process finishes up... 
 状态: 信息:Starting Light Display Manager... 
-状态:OK 信息:Started Permit User Sessions. 
-状态:OK 信息:Started Deepin Device Manager Daemon. 
+状态:OK 信息:Started Permit User Sessions.
+ 
+状态:OK 信息:Started Deepin Device Manager Daemon.
+ 
 状态: 信息:Starting Permit User Sessions... 
-状态:OK 信息:Reached target Network. 
-状态:OK 信息:Reached target Bluetooth. 
+状态:OK 信息:Reached target Network.
+ 
+状态:OK 信息:Reached target Bluetooth.
+ 
 状态: 信息:Starting Network Manager Wait Online... 
 状态: 信息:Starting Authorization Manager... 
 状态: 信息:Starting Hostname Service... 
-状态:OK 信息:Started Network Manager. 
-状态:OK 信息:Started WPA supplicant. 
-状态:OK 信息:Started Bluetooth service. 
-状态:OK 信息:Started Login Service. 
-状态:OK 信息:Started Restore /etc/resolv.conf if the system crashed before the ppp link was shut down. 
-状态:OK 信息:Started Laptop Mode Tools - Battery Polling Service. 
-状态:OK 信息:Started Self Monitoring and Reporting Technology (SMART) Daemon. 
-状态:OK 信息:Started System Logging Service. 
+状态:OK 信息:Started Network Manager.
+ 
+状态:OK 信息:Started WPA supplicant.
+ 
+状态:OK 信息:Started Bluetooth service.
+ 
+状态:OK 信息:Started Login Service.
+ 
+状态:OK 信息:Started Restore /etc/resolv.conf if the system crashed before the ppp link was shut down.
+ 
+状态:OK 信息:Started Laptop Mode Tools - Battery Polling Service.
+ 
+状态:OK 信息:Started Self Monitoring and Reporting Technology (SMART) Daemon.
+ 
+状态:OK 信息:Started System Logging Service.
+ 
 状态: 信息:Starting Login Service... 
-状态:OK 信息:Started Deepin shutdown sound. 
-状态:OK 信息:Reached target Sound Card. 
-状态:OK 信息:Started Save/Restore Sound Card State. 
-状态:OK 信息:Started Raise network interfaces. 
+状态:OK 信息:Started Deepin shutdown sound.
+ 
+状态:OK 信息:Reached target Sound Card.
+ 
+状态:OK 信息:Started Save/Restore Sound Card State.
+ 
+状态:OK 信息:Started Raise network interfaces.
+ 
 状态: 信息:Starting Restore /etc/resolv.conf if the system crashed before the ppp link was shut down... 
 状态: 信息:Starting Self Monitoring and Reporting Technology (SMART) Daemon... 
 状态: 信息:Starting Laptop Mode Tools... 
-状态:OK 信息:Started Regular background program processing daemon. 
+状态:OK 信息:Started Regular background program processing daemon.
+ 
 状态: 信息:Starting System Logging Service... 
 状态: 信息:Starting Disk Manager... 
 状态: 信息:Starting Modem Manager... 
 状态: 信息:Starting Bluetooth service... 
 状态: 信息:Starting Network Manager... 
 状态: 信息:Starting WPA supplicant... 
-状态:OK 信息:Started D-Bus System Message Bus. 
+状态:OK 信息:Started D-Bus System Message Bus.
+ 
 状态: 信息:Starting Accounts Service... 
 状态: 信息:Starting Save/Restore Sound Card State... 
 状态: 信息:Starting Laptop Mode Tools - Battery Polling Service... 
-状态:OK 信息:Started Manage Sound Card State (restore and store). 
-状态:OK 信息:Reached target Login Prompts. 
-状态:OK 信息:Reached target Basic System. 
-状态:OK 信息:Reached target Sockets. 
-状态:OK 信息:Listening on CUPS Scheduler. 
-状态:OK 信息:Reached target Paths. 
-状态:OK 信息:Started CUPS Scheduler. 
-状态:OK 信息:Reached target Timers. 
-状态:OK 信息:Started Runs Laptop Mode Tools - Polling Service, every 150 seconds. 
-状态:OK 信息:Started Daily Cleanup of Temporary Directories. 
-状态:OK 信息:Started Daily rotation of log files. 
-状态:OK 信息:Started Daily man-db regeneration. 
-状态:OK 信息:Started Daily apt upgrade and clean activities. 
-状态:OK 信息:Listening on D-Bus System Message Bus Socket. 
-状态:OK 信息:Started Daily apt download activities. 
-状态:OK 信息:Reached target System Initialization. 
-状态:OK 信息:Started Update UTMP about System Boot/Shutdown. 
+状态:OK 信息:Started Manage Sound Card State (restore and store).
+ 
+状态:OK 信息:Reached target Login Prompts.
+ 
+状态:OK 信息:Reached target Basic System.
+ 
+状态:OK 信息:Reached target Sockets.
+ 
+状态:OK 信息:Listening on CUPS Scheduler.
+ 
+状态:OK 信息:Reached target Paths.
+ 
+状态:OK 信息:Started CUPS Scheduler.
+ 
+状态:OK 信息:Reached target Timers.
+ 
+状态:OK 信息:Started Runs Laptop Mode Tools - Polling Service, every 150 seconds.
+ 
+状态:OK 信息:Started Daily Cleanup of Temporary Directories.
+ 
+状态:OK 信息:Started Daily rotation of log files.
+ 
+状态:OK 信息:Started Daily man-db regeneration.
+ 
+状态:OK 信息:Started Daily apt upgrade and clean activities.
+ 
+状态:OK 信息:Listening on D-Bus System Message Bus Socket.
+ 
+状态:OK 信息:Started Daily apt download activities.
+ 
+状态:OK 信息:Reached target System Initialization.
+ 
+状态:OK 信息:Started Update UTMP about System Boot/Shutdown.
+ 
 状态: 信息:Starting Update UTMP about System Boot/Shutdown... 
-状态:OK 信息:Reached target System Time Synchronized. 
-状态:OK 信息:Started Create Volatile Files and Directories. 
-状态:OK 信息:Started Tell Plymouth To Write Out Runtime Data. 
+状态:OK 信息:Reached target System Time Synchronized.
+ 
+状态:OK 信息:Started Create Volatile Files and Directories.
+ 
+状态:OK 信息:Started Tell Plymouth To Write Out Runtime Data.
+ 
 状态: 信息:Starting Raise network interfaces... 
 状态: 信息:Starting Tell Plymouth To Write Out Runtime Data... 
 状态: 信息:Starting Create Volatile Files and Directories... 
-状态:OK 信息:Reached target Local File Systems. 
-状态:OK 信息:Mounted /boot/efi. 
-状态:OK 信息:Mounted /home. 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /boot/efi (30s / in 29s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /boot/efi (30s / in 29s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /boot/efi (29s / in 29s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /home (29s / 59s) 
-状态: 信息:M[K[*     ] (2 of 2) A start job is running for /home (28s / 59s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /home (28s / 59s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /boot/efi (27s / in 29s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /boot/efi (27s / in 29s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /boot/efi (26s / in 29s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /home (26s / 59s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /home (25s / 59s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /home (25s / 59s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /boot/efi (24s / in 29s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /boot/efi (24s / in 29s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /boot/efi (23s / in 29s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /home (23s / 59s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /home (22s / 59s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /home (22s / 59s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /boot/efi (21s / in 29s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /boot/efi (21s / in 29s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /boot/efi (20s / in 29s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /home (20s / 59s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /home (19s / 59s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /home (19s / 59s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /boot/efi (18s / in 29s) 
-状态: 信息:M[K[     *] (1 of 2) A start job is running for /boot/efi (18s / in 29s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /boot/efi (17s / in 29s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /home (17s / 59s) 
-状态: 信息:M[K[  *** ] (2 of 2) A start job is running for /home (16s / 59s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /home (16s / 59s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /boot/efi (15s / in 29s) 
-状态: 信息:M[K[**    ] (1 of 2) A start job is running for /boot/efi (15s / in 29s) 
-状态: 信息:M[K[*     ] (1 of 2) A start job is running for /boot/efi (14s / in 29s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /home (14s / 59s) 
-状态: 信息:M[K[***   ] (2 of 2) A start job is running for /home (13s / 59s) 
-状态: 信息:M[K[ ***  ] (2 of 2) A start job is running for /home (13s / 59s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /boot/efi (12s / in 29s) 
-状态: 信息:M[K[   ***] (1 of 2) A start job is running for /boot/efi (12s / in 29s) 
-状态: 信息:M[K[    **] (1 of 2) A start job is running for /boot/efi (11s / in 29s) 
-状态: 信息:M[K[     *] (2 of 2) A start job is running for /home (11s / 59s) 
-状态: 信息:M[K[    **] (2 of 2) A start job is running for /home (10s / 59s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /home (10s / 59s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /boot/efi (9s / in 29s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /boot/efi (9s / in 29s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /boot/efi (8s / in 29s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /home (8s / 59s) 
-状态: 信息:M[K[*     ] (2 of 2) A start job is running for /home (7s / 59s) 
-状态: 信息:M[K[**    ] (2 of 2) A start job is running for /home (7s / 59s) 
-状态: 信息:M[K[***   ] (1 of 2) A start job is running for /boot/efi (6s / in 29s) 
-状态: 信息:M[K[ ***  ] (1 of 2) A start job is running for /boot/efi (6s / in 29s) 
-状态: 信息:M[K[  *** ] (1 of 2) A start job is running for /boot/efi (5s / in 29s) 
-状态: 信息:M[K[   ***] (2 of 2) A start job is running for /home (5s / 59s) 
+状态:OK 信息:Reached target Local File Systems.
+ 
+状态:OK 信息:Mounted /boot/efi.
+ 
+状态:OK 信息:Mounted /home.
+ 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /boot/efi (30s / in 29s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /boot/efi (30s / in 29s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /boot/efi (29s / in 29s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /home (29s / 59s) 
+状态: 信息:M
+[K[*     ] (2 of 2) A start job is running for /home (28s / 59s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /home (28s / 59s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /boot/efi (27s / in 29s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /boot/efi (27s / in 29s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /boot/efi (26s / in 29s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /home (26s / 59s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /home (25s / 59s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /home (25s / 59s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /boot/efi (24s / in 29s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /boot/efi (24s / in 29s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /boot/efi (23s / in 29s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /home (23s / 59s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /home (22s / 59s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /home (22s / 59s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /boot/efi (21s / in 29s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /boot/efi (21s / in 29s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /boot/efi (20s / in 29s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /home (20s / 59s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /home (19s / 59s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /home (19s / 59s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /boot/efi (18s / in 29s) 
+状态: 信息:M
+[K[     *] (1 of 2) A start job is running for /boot/efi (18s / in 29s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /boot/efi (17s / in 29s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /home (17s / 59s) 
+状态: 信息:M
+[K[  *** ] (2 of 2) A start job is running for /home (16s / 59s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /home (16s / 59s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /boot/efi (15s / in 29s) 
+状态: 信息:M
+[K[**    ] (1 of 2) A start job is running for /boot/efi (15s / in 29s) 
+状态: 信息:M
+[K[*     ] (1 of 2) A start job is running for /boot/efi (14s / in 29s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /home (14s / 59s) 
+状态: 信息:M
+[K[***   ] (2 of 2) A start job is running for /home (13s / 59s) 
+状态: 信息:M
+[K[ ***  ] (2 of 2) A start job is running for /home (13s / 59s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /boot/efi (12s / in 29s) 
+状态: 信息:M
+[K[   ***] (1 of 2) A start job is running for /boot/efi (12s / in 29s) 
+状态: 信息:M
+[K[    **] (1 of 2) A start job is running for /boot/efi (11s / in 29s) 
+状态: 信息:M
+[K[     *] (2 of 2) A start job is running for /home (11s / 59s) 
+状态: 信息:M
+[K[    **] (2 of 2) A start job is running for /home (10s / 59s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /home (10s / 59s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /boot/efi (9s / in 29s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /boot/efi (9s / in 29s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /boot/efi (8s / in 29s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /home (8s / 59s) 
+状态: 信息:M
+[K[*     ] (2 of 2) A start job is running for /home (7s / 59s) 
+状态: 信息:M
+[K[**    ] (2 of 2) A start job is running for /home (7s / 59s) 
+状态: 信息:M
+[K[***   ] (1 of 2) A start job is running for /boot/efi (6s / in 29s) 
+状态: 信息:M
+[K[ ***  ] (1 of 2) A start job is running for /boot/efi (6s / in 29s) 
+状态: 信息:M
+[K[  *** ] (1 of 2) A start job is running for /boot/efi (5s / in 29s) 
+状态: 信息:M
+[K[   ***] (2 of 2) A start job is running for /home (5s / 59s) 
 状态: 信息:[    **] (2 of 2) A start job is running for /home (30s / in 30s) 
 状态: 信息:Mounting /boot/efi... 
-状态: 信息:Checking in progress on 0 disks (100.0% complete)[  OK  ] Started File System Check on /dev/disk/by-uuid/AC20-C88C. 
+状态: 信息:Checking in progress on 0 disks (100.0% complete)
+[  OK  ] Started File System Check on /dev/disk/by-uuid/AC20-C88C. 
 状态: 信息:Mounting /home... 
-状态: 信息:Checking in progress on 1 disk (0.0% complete)[  OK  ] Started File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc. 
-状态:OK 信息:Started Load/Save RF Kill Switch Status. 
-状态:OK 信息:Started File System Check Daemon to report status. 
+状态: 信息:Checking in progress on 1 disk (0.0% complete)
+[  OK  ] Started File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc. 
+状态:OK 信息:Started Load/Save RF Kill Switch Status.
+ 
+状态:OK 信息:Started File System Check Daemon to report status.
+ 
 状态: 信息:Starting File System Check on /dev/disk/by-uuid/AC20-C88C... 
 状态: 信息:Starting Load/Save RF Kill Switch Status... 
-状态:OK 信息:Found device UNIC2_S100-240 EFI\x20system\x20partition. 
+状态:OK 信息:Found device UNIC2_S100-240 EFI\x20system\x20partition.
+ 
 状态: 信息:[KSee 'systemctl status systemd-rfkill.service' for details. 
-状态:Failed 信息:start Load/Save RF Kill Switch Status. 
-状态: 信息:M[K[     *] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 3s / in 30s) 
-状态: 信息:M[K[    **] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (in 2s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (in 1s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (in 1s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / no limit) 
-状态: 信息:M[K[***   ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / no limit) 
-状态: 信息:M[K[**    ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (59s / no limit) 
-状态: 信息:M[K[*     ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (59s / in 30s) 
-状态: 信息:M[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (59s / in 30s) 
-状态: 信息:M[K[***   ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (58s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (57s / in) 
-状态: 信息:M[K[  *** ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (57s / in) 
-状态: 信息:M[K[   ***] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (56s / in) 
-状态: 信息:M[K[    **] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (56s / no limit) 
-状态: 信息:M[K[     *] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (55s / no limit) 
-状态: 信息:M[K[    **] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (55s / no limit) 
-状态: 信息:M[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (55s / in 30s) 
-状态: 信息:M[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (54s / in 30s) 
-状态: 信息:M[K[ ***  ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (54s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (53s / in) 
-状态: 信息:M[K[**    ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (52s / in) 
-状态: 信息:M[K[*     ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (52s / in) 
-状态: 信息:M[K[**    ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / no limit) 
-状态: 信息:M[K[***   ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / no limit) 
-状态: 信息:M[K[ ***  ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (50s / no limit) 
-状态: 信息:M[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (50s / in 30s) 
-状态: 信息:M[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (50s / in 30s) 
-状态: 信息:M[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (49s / in 30s) 
-状态: 信息:M[K[     *] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (48s / in) 
-状态: 信息:M[K[    **] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (48s / in) 
-状态: 信息:M[K[   ***] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (47s / in) 
-状态: 信息:M[K[  *** ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (47s / no limit) 
-状态: 信息:M[K[ ***  ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (46s / no limit) 
-状态: 信息:M[K[***   ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (46s / no limit) 
-状态: 信息:M[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (46s / in 30s) 
-状态: 信息:M[K[*     ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (45s / in 30s) 
-状态: 信息:M[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (45s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (44s / in) 
-状态: 信息:M[K[ ***  ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (43s / in) 
-状态: 信息:M[K[  *** ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (43s / in) 
-状态: 信息:M[K[   ***] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / no limit) 
-状态: 信息:M[K[    **] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / no limit) 
-状态: 信息:M[K[     *] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (41s / no limit) 
-状态: 信息:M[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
-状态: 信息:M[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
-状态: 信息:M[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (40s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (39s / in) 
-状态: 信息:M[K[***   ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (39s / in) 
-状态: 信息:M[K[**    ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (38s / in) 
-状态: 信息:M[K[*     ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (38s / no limit) 
-状态: 信息:M[K[**    ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (37s / no limit) 
+状态:Failed 信息:start Load/Save RF Kill Switch Status.
+ 
+状态: 信息:M
+[K[     *] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (in 3s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (in 2s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (in 1s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (in 1s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / no limit) 
+状态: 信息:M
+[K[***   ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (in / no limit) 
+状态: 信息:M
+[K[**    ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (59s / no limit) 
+状态: 信息:M
+[K[*     ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (59s / in 30s) 
+状态: 信息:M
+[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (59s / in 30s) 
+状态: 信息:M
+[K[***   ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (58s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (57s / in) 
+状态: 信息:M
+[K[  *** ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (57s / in) 
+状态: 信息:M
+[K[   ***] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (56s / in) 
+状态: 信息:M
+[K[    **] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (56s / no limit) 
+状态: 信息:M
+[K[     *] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (55s / no limit) 
+状态: 信息:M
+[K[    **] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (55s / no limit) 
+状态: 信息:M
+[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (55s / in 30s) 
+状态: 信息:M
+[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (54s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (54s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (53s / in) 
+状态: 信息:M
+[K[**    ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (52s / in) 
+状态: 信息:M
+[K[*     ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (52s / in) 
+状态: 信息:M
+[K[**    ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / no limit) 
+状态: 信息:M
+[K[***   ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (51s / no limit) 
+状态: 信息:M
+[K[ ***  ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (50s / no limit) 
+状态: 信息:M
+[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (50s / in 30s) 
+状态: 信息:M
+[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (50s / in 30s) 
+状态: 信息:M
+[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (49s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (48s / in) 
+状态: 信息:M
+[K[    **] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (48s / in) 
+状态: 信息:M
+[K[   ***] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (47s / in) 
+状态: 信息:M
+[K[  *** ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (47s / no limit) 
+状态: 信息:M
+[K[ ***  ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (46s / no limit) 
+状态: 信息:M
+[K[***   ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (46s / no limit) 
+状态: 信息:M
+[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (46s / in 30s) 
+状态: 信息:M
+[K[*     ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (45s / in 30s) 
+状态: 信息:M
+[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (45s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (44s / in) 
+状态: 信息:M
+[K[ ***  ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (43s / in) 
+状态: 信息:M
+[K[  *** ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (43s / in) 
+状态: 信息:M
+[K[   ***] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / no limit) 
+状态: 信息:M
+[K[    **] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (42s / no limit) 
+状态: 信息:M
+[K[     *] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (41s / no limit) 
+状态: 信息:M
+[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
+状态: 信息:M
+[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (41s / in 30s) 
+状态: 信息:M
+[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (40s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (39s / in) 
+状态: 信息:M
+[K[***   ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (39s / in) 
+状态: 信息:M
+[K[**    ] (2 of 3) A start job is running for Load/Save RF Kill Switch Status (38s / in) 
+状态: 信息:M
+[K[*     ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (38s / no limit) 
+状态: 信息:M
+[K[**    ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (37s / no limit) 
 状态: 信息:[***   ] (1 of 3) A start job is running for File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (37s / no limit) 
 状态: 信息:[K         Starting File System Check on /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc... 
-状态:OK 信息:Found device UNIC2_S100-240 Linux\x20data\x20partition. 
-状态: 信息:M[K[ ***  ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
-状态: 信息:M[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (31s / in 30s) 
-状态: 信息:M[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (31s / in 30s) 
-状态: 信息:M[K[    **] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (30s / in 30s) 
-状态: 信息:M[K[     *] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (30s / in 30s) 
-状态: 信息:M[K[    **] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (29s / in 30s) 
-状态: 信息:M[K[   ***] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (28s / 30s) 
-状态: 信息:M[K[  *** ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (28s / 30s) 
-状态: 信息:M[K[ ***  ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (27s / 30s) 
-状态: 信息:M[K[***   ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (27s / in 30s) 
-状态: 信息:M[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (27s / in 30s) 
-状态: 信息:M[K[*     ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (26s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (26s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (25s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (25s / in 30s) 
-状态: 信息:M[K[  *** ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (24s / 30s) 
-状态: 信息:M[K[   ***] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (23s / 30s) 
-状态: 信息:M[K[    **] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (23s / 30s) 
-状态: 信息:M[K[     *] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (23s / in 30s) 
-状态: 信息:M[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
-状态: 信息:M[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (21s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (21s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
-状态: 信息:M[K[**    ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (19s / 30s) 
-状态: 信息:M[K[*     ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (19s / 30s) 
-状态: 信息:M[K[**    ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (18s / 30s) 
-状态: 信息:M[K[***   ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
-状态: 信息:M[K[ ***  ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
-状态: 信息:M[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (17s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
-状态: 信息:M[K[    **] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (16s / in 30s) 
-状态: 信息:M[K[     *] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (16s / in 30s) 
-状态: 信息:M[K[    **] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (15s / 30s) 
-状态: 信息:M[K[   ***] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (14s / 30s) 
-状态: 信息:M[K[  *** ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (14s / 30s) 
-状态: 信息:M[K[ ***  ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (14s / in 30s) 
-状态: 信息:M[K[***   ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (13s / in 30s) 
-状态: 信息:M[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (13s / in 30s) 
-状态: 信息:M[K[*     ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (12s / in 30s) 
-状态: 信息:M[K[**    ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (12s / in 30s) 
-状态: 信息:M[K[***   ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (11s / in 30s) 
-状态: 信息:M[K[ ***  ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (10s / 30s) 
-状态: 信息:M[K[  *** ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (10s / 30s) 
-状态: 信息:M[K[   ***] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (9s / 30s) 
-状态: 信息:M[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (9s / in 30s) 
-状态: 信息:M[K[     *] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (9s / in 30s) 
-状态: 信息:M[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
-状态: 信息:M[K[   ***] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (8s / in 30s) 
-状态: 信息:M[K[  *** ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (7s / in 30s) 
-状态: 信息:M[K[ ***  ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (7s / in 30s) 
-状态: 信息:M[K[***   ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (6s / 30s) 
-状态: 信息:M[K[**    ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (5s / 30s) 
+状态:OK 信息:Found device UNIC2_S100-240 Linux\x20data\x20partition.
+ 
+状态: 信息:M
+[K[ ***  ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (32s / in 30s) 
+状态: 信息:M
+[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (31s / in 30s) 
+状态: 信息:M
+[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (31s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (30s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (30s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (29s / in 30s) 
+状态: 信息:M
+[K[   ***] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (28s / 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (28s / 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (27s / 30s) 
+状态: 信息:M
+[K[***   ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (27s / in 30s) 
+状态: 信息:M
+[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (27s / in 30s) 
+状态: 信息:M
+[K[*     ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (26s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (26s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (25s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (25s / in 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (24s / 30s) 
+状态: 信息:M
+[K[   ***] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (23s / 30s) 
+状态: 信息:M
+[K[    **] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (23s / 30s) 
+状态: 信息:M
+[K[     *] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (23s / in 30s) 
+状态: 信息:M
+[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
+状态: 信息:M
+[K[   ***] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (22s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (21s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (21s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (20s / in 30s) 
+状态: 信息:M
+[K[**    ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (19s / 30s) 
+状态: 信息:M
+[K[*     ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (19s / 30s) 
+状态: 信息:M
+[K[**    ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (18s / 30s) 
+状态: 信息:M
+[K[***   ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (18s / in 30s) 
+状态: 信息:M
+[K[  *** ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (17s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (17s / in 30s) 
+状态: 信息:M
+[K[    **] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (16s / in 30s) 
+状态: 信息:M
+[K[     *] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (16s / in 30s) 
+状态: 信息:M
+[K[    **] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (15s / 30s) 
+状态: 信息:M
+[K[   ***] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (14s / 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (14s / 30s) 
+状态: 信息:M
+[K[ ***  ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (14s / in 30s) 
+状态: 信息:M
+[K[***   ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (13s / in 30s) 
+状态: 信息:M
+[K[**    ] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (13s / in 30s) 
+状态: 信息:M
+[K[*     ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (12s / in 30s) 
+状态: 信息:M
+[K[**    ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (12s / in 30s) 
+状态: 信息:M
+[K[***   ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (11s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (10s / 30s) 
+状态: 信息:M
+[K[  *** ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (10s / 30s) 
+状态: 信息:M
+[K[   ***] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (9s / 30s) 
+状态: 信息:M
+[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (9s / in 30s) 
+状态: 信息:M
+[K[     *] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (9s / in 30s) 
+状态: 信息:M
+[K[    **] (3 of 3) A start job is running for /dev/disk/by-uuid/b0f34a8d-fe12-4db4-9739-3d7af5814dbc (8s / in 30s) 
+状态: 信息:M
+[K[   ***] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (8s / in 30s) 
+状态: 信息:M
+[K[  *** ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (7s / in 30s) 
+状态: 信息:M
+[K[ ***  ] (2 of 3) A start job is running for /dev/disk/by-uuid/AC20-C88C (7s / in 30s) 
+状态: 信息:M
+[K[***   ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (6s / 30s) 
+状态: 信息:M
+[K[**    ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (5s / 30s) 
 状态: 信息:[*     ] (1 of 3) A start job is running for Load/Save RF Kill Switch Status (5s / 30s) 
 状态: 信息:/init: line 83: wait-for-root: not found 
 状态: 信息:------------ Fri Dec 03 16:58:13 UTC 2021 ------------ 
+我是范才睿
+我在本科生院
