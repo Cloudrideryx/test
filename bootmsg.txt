@@ -1,11 +1,4 @@
-状态: 信息:Starting Network Manager Script Dispatcher Service... 
-状态:OK 信息:Started Hostname Service.
- 
-状态:OK 信息:Started Accounts Service.
- 
-状态:OK 信息:Started Authorization Manager.
- 
-状态: 信息:Starting Hold until boot process finishes up... 
+************test*************
 状态: 信息:Starting Light Display Manager... 
 状态:OK 信息:Started Permit User Sessions.
  
